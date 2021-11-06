@@ -1,7 +1,7 @@
 import React from 'react';
 
 // components
-import Main from './components/Main'
+import Main from './components/main'
 
 function App() {
   return (
