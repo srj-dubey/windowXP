@@ -1,8 +1,9 @@
 import { FC } from 'react'
+import * as styles from './styles'
 
 const Main: FC = () => {
   return (
-    <div>
+    <div css={styles.container}>
       Window XP
     </div>
 
